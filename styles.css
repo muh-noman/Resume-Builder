@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(104, 125, 121);
+} 
+fieldset{
+    background-color: azure;
+    /* align-items: center; */
+    /* width: 200px; */
+    justify-self: center;
+
+h2{
+   text-align: justify;
+   text-align: center;
+}
+
+.pinfom{
+    display: flex;
+    align-items: center;
+    background-color: rgb(55, 130, 130);
+    padding: 20px;
+    border: 1px;
+
+.main{
+    background-attachment: rgb(187, 8, 8);
+}
+
+.info2{
+    margin-left: 100px;
+}
+
+.pic{
+    border-radius: 50%;
+    object-fit: cover;
+    border: 5px;
+}
+.skills {
+    display: none;
+}
